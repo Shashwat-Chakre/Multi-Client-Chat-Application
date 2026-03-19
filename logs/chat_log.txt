@@ -1,0 +1,62 @@
+2026-03-06T20:21:16.386835600 : shashwat@08 joined
+2026-03-06T20:21:56.970053200 : shashwat@08: hii
+2026-03-06T20:22:27.601475400 : KravenTheHunter joined
+2026-03-06T20:22:33.252362300 : KravenTheHunter: hello
+2026-03-06T20:22:42.746783200 : shashwat@08: hii
+2026-03-06T20:23:24.493084100 : KravenTheHunter: hii
+2026-03-06T20:23:25.377555800 : KravenTheHunter: 
+2026-03-06T20:23:25.962371400 : KravenTheHunter: 
+2026-03-06T20:23:26.106265900 : KravenTheHunter: 
+2026-03-06T20:23:44.755186400 : shashwat@08 left
+2026-03-06T20:23:46.187867200 : KravenTheHunter left
+2026-03-06T20:27:29.886113100 : shashwat_08 joined
+2026-03-06T20:27:50.943126500 : Kraven joined
+2026-03-06T20:28:09.831503800 : Adesh joined
+2026-03-06T20:28:17.618213600 : Adesh: hii
+2026-03-06T20:29:00.495915400 : Adesh left
+2026-03-06T20:39:11.401640700 : shashwat joined
+2026-03-06T20:39:25.696367400 : Kraven joined
+2026-03-06T20:39:38.278409800 : Bot joined
+2026-03-06T20:40:59.677521500 : Bot removed
+2026-03-06T20:40:59.690487400 : Bot disconnected
+2026-03-06T20:41:27.619937900 : shashwat: hii
+2026-03-06T20:41:58.531484 : Kraven: byy
+2026-03-06T20:42:09.156502400 : shashwat disconnected
+2026-03-06T20:42:12.060207100 : Kraven disconnected
+2026-03-06T20:48:27.925715900 : shashwat joined
+2026-03-06T20:48:47.657222600 : kraven joined
+2026-03-06T20:48:55.603351100 : shashwat: hii
+2026-03-06T20:49:06.361996100 : bot joined
+2026-03-06T20:49:53.454383500 : shashwat: hii
+2026-03-06T20:50:58.063957300 : bot removed
+2026-03-06T20:50:58.073944100 : bot disconnected
+[2026-03-17 12:10:37] alice joined
+[2026-03-17 12:10:44] alice disconnected
+[2026-03-17 12:10:47] alice joined
+[2026-03-17 12:10:53] bob joined
+[2026-03-17 12:10:56] alice: Hello everyone!
+[2026-03-17 12:10:59] alice disconnected
+[2026-03-17 12:10:59] bob disconnected
+[2026-03-17 12:11:02] alice joined
+[2026-03-17 12:11:09] bob joined
+[2026-03-17 12:11:15] carol joined
+[2026-03-17 12:11:18] (Private) alice → bob: Secret message
+[2026-03-17 12:11:24] alice disconnected
+[2026-03-17 12:11:24] bob disconnected
+[2026-03-17 12:11:24] carol disconnected
+[2026-03-17 12:11:27] alice joined
+[2026-03-17 12:11:33] alice disconnected
+[2026-03-17 12:11:36] alice joined
+[2026-03-17 12:11:40] alice disconnected
+[2026-03-17 12:11:46] alice joined
+[2026-03-17 12:11:52] bob joined
+[2026-03-17 12:11:56] alice disconnected
+[2026-03-17 12:11:56] bob disconnected
+[2026-03-17 12:17:38] shashwat joined
+[2026-03-17 12:17:48] hello joined
+[2026-03-17 12:18:00] 123 joined
+[2026-03-17 12:18:08] (Private) 123 → shashwat: hii
+[2026-03-17 12:18:22] shashwat: hii
+[2026-03-17 12:18:31] 123 disconnected
+[2026-03-17 12:18:59] shashwat was kicked
+[2026-03-17 12:19:15] hello disconnected
